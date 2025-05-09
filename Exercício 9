@@ -1,0 +1,3 @@
+A. O hub envia informações para todos os pcs conectados ao HUB.
+B. O pc que pedir a informção vai receber só ele a informação diferente do hub que envia informações para todos.
+C. Os hubs têm vantagens de simplicidade, baixo custo e facilidade de instalação, mas podem resultar em menor desempenho da rede e alto congestionamento de tráfego. Os switches oferecem melhor desempenho de rede e reduzem o tráfego desnecessário, mas são um pouco mais caros que os hubs.
