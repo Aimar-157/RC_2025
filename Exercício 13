@@ -1,0 +1,28 @@
+1- 1ª camada Física,2ª Ligação de dados,3ª Redes,4ª Transporte,5ª Sessão,6ª Apresentação,7ª Aplicação
+
+2.1- 
+1ª- Transmissão e recepção de sinais brutos entre dispositivos em uma rede.
+2ª- A organização dos bits da Camada Física em Frames ou Quadros.
+3ª- Permitem que diversos dispositivos compartilhem recursos, como scanners, impressoras, arquivos e conexões de internet, otimizando a utilização dos recursos disponíveis.
+4ª- Essa camada é responsável por pegar os dados recebidos da rede e transformá-los em um formato compreensível pelo programa.
+5ª- Essas são as camadas mais altas que colocam os dados no formato usado pelo programa.
+6ª- Desempenha um papel crucial na comunicação em redes de computadores. Suas funções principais incluem a tradução, criptografia, compactação e formatação de dados, permitindo que diferentes sistemas se comuniquem efetivamente.
+7ª- Operam utilizando protocolos de comunicação, como os protocolos TCP/IP, que definem as regras e formatos para a troca de dados entre os dispositivos.
+
+2.2- 
+1ª- Cabo rompido ou danificado.
+2ª- Erros de transmissão.
+3ª- Fragmentação dos dados a serem transmitidos.
+4ª- Quando tamanho da janela e atrasos são grandes, pode haver muitos pacotes pendentes na rede.
+5ª- Necessidade de interromper (para salvar a conversação atual como um arquivo) ou de verificar a conversação anterior de cada um (para obter pistas da razão da discussão).
+6ª- Criptografia Falha, Compressão Ineficaz.
+7ª- Apesar de um endereço IP identificar um host numa rede, não identifica qual é o processo dessa máquina com o qual se pretende comunicar.
+
+2.3-
+1ª- Para testar cabos, conectores e sinais, podes usar ferramentas como multímetros, certificadores de cabos, e analisadores de espectro.
+2ª- Ferramentas como Wireshark podem ajudar a capturar e analisar pacotes de rede para verificar problemas de endereçamento MAC e colisões.
+3ª- Comandos como ping e tracert (Windows) ou traceroute (Linux/macOS) são úteis para verificar conectividade e latência entre dispositivos.
+4ª- Testes com netstat, telnet e nc (netcat) podem ajudar a diagnosticar portas abertas e conexões de transporte TCP/UDP.
+5ª- Ferramentas de logs e análise de sessões, como tcpdump, ajudam a verificar se as sessões estão sendo estabelecidas corretamente.
+6ª- Para validar a correta codificação e encriptação de dados, podes usar ferramentas específicas como OpenSSL.
+7ª- Testes de software, navegadores, e depuração de APIs ajudam a identificar problemas nesta camada.
