@@ -2,7 +2,7 @@ Endereços IPV4          Classe        Justificações
 1- 10.5.23.1            A             Destinada a grandes redes, como as de empresas ou agências governamentais.
 2- 1.2.3.4              A             Destinada a grandes redes, como as de empresas ou agências governamentais.
 3- 150.100.50.25        B             Utilizada para redes de médio porte, como instituições educacionais e provedores de serviços de Internet.
-4- 127.0.0.1            A             Destinada a grandes redes, como as de empresas ou agências governamentais.
+4- 127.0.0.1            corrigido: Loopback         
 5- 250.10.5.5           E             Reservada para uso experimental e pesquisa, não é atribuída para aplicações práticas em redes públicas.
 6- 224.0.0.1            D             Reservada para comunicação multicast, onde um único pacote de dados é enviado a múltiplos destinatários simultaneamente.
 7- 192.168.0.1          C             Comum em redes menores, como residenciais e pequenas empresas. 
